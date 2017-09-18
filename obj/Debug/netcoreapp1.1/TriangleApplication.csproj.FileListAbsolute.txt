@@ -1,0 +1,9 @@
+C:\Projects\Web\Core\TriangleApplication\TriangleApplication\bin\Debug\netcoreapp1.1\TriangleApplication.deps.json
+C:\Projects\Web\Core\TriangleApplication\TriangleApplication\bin\Debug\netcoreapp1.1\TriangleApplication.runtimeconfig.json
+C:\Projects\Web\Core\TriangleApplication\TriangleApplication\bin\Debug\netcoreapp1.1\TriangleApplication.runtimeconfig.dev.json
+C:\Projects\Web\Core\TriangleApplication\TriangleApplication\bin\Debug\netcoreapp1.1\TriangleApplication.dll
+C:\Projects\Web\Core\TriangleApplication\TriangleApplication\bin\Debug\netcoreapp1.1\TriangleApplication.pdb
+C:\Projects\Web\Core\TriangleApplication\TriangleApplication\obj\Debug\netcoreapp1.1\TriangleApplication.csproj.CoreCompileInputs.cache
+C:\Projects\Web\Core\TriangleApplication\TriangleApplication\obj\Debug\netcoreapp1.1\TriangleApplication.AssemblyInfo.cs
+C:\Projects\Web\Core\TriangleApplication\TriangleApplication\obj\Debug\netcoreapp1.1\TriangleApplication.dll
+C:\Projects\Web\Core\TriangleApplication\TriangleApplication\obj\Debug\netcoreapp1.1\TriangleApplication.pdb
